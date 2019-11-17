@@ -17,7 +17,7 @@ public class Rental {
 		return _movie;
 	}
 
-	public double getChange() {
+	public double getCharge() {
 		double result = 0;
 		// determine amounts for each line
 		switch (getMovie().getPriceCode()) { // 取得影片出租价格
