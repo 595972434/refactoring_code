@@ -47,7 +47,7 @@ public class Customer {
 	}
 
 	private double amoutFor(Rental each) {
-		double thisAmount = ;
+		double thisAmount = 0;
 		// determine amounts for each line
 		switch (each.getMovie().getPriceCode()) { // 取得影片出租价格
 		case Movie.REGULAR: // 普通片

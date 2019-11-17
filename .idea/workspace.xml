@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bf1db27-68b8-4ef8-ab20-dad2c9d410ab" name="Default Changelist" comment="" />
+    <list default="true" id="6bf1db27-68b8-4ef8-ab20-dad2c9d410ab" name="Default Changelist" comment="[wangbin] test code can work">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter01/ver01/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter01/ver01/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chapter01/ver02/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chapter01/ver02/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chapter01/ver03/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chapter01/ver03/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chapter01/ver04/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chapter01/ver04/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chapter01/ver05/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chapter01/ver05/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chapter01/ver08/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chapter01/ver08/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chapter01/ver09/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chapter01/ver09/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chapter01/ver11/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chapter01/ver11/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.coderdream/refactoring/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.coderdream/refactoring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver01/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter01/ver01/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver01/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter01/ver01/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver01/Rental.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter01/ver01/Rental.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver02/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver02/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver02/Rental.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver03/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver03/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver03/Rental.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver04/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver04/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver04/Rental.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver05/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver05/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter01/ver05/Rental.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/chapter01/ver01/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/chapter01/ver01/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/chapter01/ver02/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/chapter01/ver02/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/chapter01/ver03/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/chapter01/ver03/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/chapter01/ver04/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/chapter01/ver04/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/chapter01/ver05/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/chapter01/ver05/CustomerTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +53,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver01/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+            <state relative-caret-position="184">
+              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
                 <element signature="e#214#215#0" expanded="true" />
                 <element signature="e#233#234#0" expanded="true" />
@@ -28,20 +66,79 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver01/CustomerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="198">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver05/CustomerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver08/CustomerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver09/CustomerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver11/CustomerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Content.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-9" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="541">
+                <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -51,7 +148,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver01/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -59,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver01/Rental.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="270">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#234#235#0" expanded="true" />
@@ -87,9 +184,23 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/chapter01/ver01/Rental.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter01/ver09/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter01/ver01/Customer.java" />
         <option value="$PROJECT_DIR$/src/test/java/chapter01/ver01/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter01/ver01/Customer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter01/ver04/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter01/ver03/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter01/ver02/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter01/ver05/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter01/ver08/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter01/ver09/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/chapter01/ver11/CustomerTest.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectConfigurationFiles">
@@ -113,35 +224,34 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -149,47 +259,111 @@
             </path>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="ver01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver02" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Documents/BusinessProject/refactoring-improving-the-design-of-existing-code" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="ver01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver03" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver04" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver05" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver08" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver09" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="refactoring" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="refactoring-improving-the-design-of-existing-code" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ver11" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,7 +375,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -215,9 +389,60 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="CustomerTest.statement" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="refactoring" />
+  <component name="RunManager" selected="TestNG.CustomerTest">
+    <configuration name="CustomerTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="refactoring-improving-the-design-of-existing-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter01.ver02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter01.ver02" />
+      <option name="MAIN_CLASS_NAME" value="chapter01.ver02.CustomerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="refactoring-improving-the-design-of-existing-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter01.ver04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter01.ver04" />
+      <option name="MAIN_CLASS_NAME" value="chapter01.ver04.CustomerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="refactoring-improving-the-design-of-existing-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter01.ver01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter01.ver01" />
+      <option name="MAIN_CLASS_NAME" value="chapter01.ver01.CustomerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.statement (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="refactoring-improving-the-design-of-existing-code" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter01.ver01.*" />
@@ -234,9 +459,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CustomerTest.statement (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="refactoring-improving-the-design-of-existing-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter01.ver03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chapter01.ver03" />
+      <option name="MAIN_CLASS_NAME" value="chapter01.ver03.CustomerTest" />
+      <option name="METHOD_NAME" value="statement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CustomerTest.statement" />
+        <item itemvalue="TestNG.CustomerTest" />
+        <item itemvalue="TestNG.CustomerTest (2)" />
+        <item itemvalue="TestNG.CustomerTest.statement (1)" />
+        <item itemvalue="TestNG.CustomerTest (1)" />
+        <item itemvalue="TestNG.CustomerTest.statement (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +512,8 @@
       <workItem from="1568560599512" duration="627000" />
       <workItem from="1568562587626" duration="604000" />
       <workItem from="1568564396333" duration="8000" />
-      <workItem from="1573992643578" duration="5748000" />
+      <workItem from="1573992643578" duration="6631000" />
+      <workItem from="1573999418149" duration="805000" />
     </task>
     <task id="LOCAL-00001" summary="[wangbin] init project">
       <created>1573997392697</created>
@@ -281,26 +529,30 @@
     <history-entry file="CustomerTest_statement - 2019.09.08 at 20h 31m 18s.xml">
       <configuration name="CustomerTest.statement" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="CustomerTest_statement - 2019.11.17 at 21h 48m 17s.xml">
+      <configuration name="CustomerTest.statement" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CustomerTest_statement - 2019.11.17 at 21h 48m 42s.xml">
+      <configuration name="CustomerTest.statement" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17769000" />
+    <option name="totallyTimeSpent" value="19457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25763127" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26100245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,8 +562,9 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32945284" />
-      <window_info anchor="right" id="Key Promoter X" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="13" />
+      <window_info anchor="bottom" id="CheckStyle" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -321,6 +574,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Key Promoter X" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,29 +592,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[wangbin] init project" />
-    <option name="LAST_COMMIT_MESSAGE" value="[wangbin] init project" />
+    <MESSAGE value="[wangbin] test code can work" />
+    <option name="LAST_COMMIT_MESSAGE" value="[wangbin] test code can work" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Content.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1219">
-            <caret line="98" column="21" lean-forward="true" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver03/CustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver07/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver06/Rental.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver08/Movie.java" />
@@ -374,27 +609,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver07/Rental.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver06/Movie.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver11/Rental.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="19" selection-start-line="16" selection-start-column="4" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver11/CustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver02/CustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver02/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver03/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver04/Customer.java" />
@@ -406,16 +620,30 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver09/Rental.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver05/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver06/Customer.java" />
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver01/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver01/Rental.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="270">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#234#235#0" expanded="true" />
@@ -426,29 +654,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver01/Customer.java">
+    <entry file="file://$PROJECT_DIR$/Content.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="541">
+            <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver03/CustomerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="34" column="48" lean-forward="true" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        <state relative-caret-position="288">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-9" />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver02/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver04/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver05/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver08/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver09/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver11/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/chapter01/ver01/CustomerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="198">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter01/ver01/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

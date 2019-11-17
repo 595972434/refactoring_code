@@ -1,5 +1,8 @@
 package chapter01.ver11;
 
+import chapter01.ver01.Customer;
+import chapter01.ver01.Movie;
+import chapter01.ver01.Rental;
 import org.testng.annotations.Test;
 
 public class CustomerTest {
